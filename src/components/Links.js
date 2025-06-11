@@ -1,6 +1,6 @@
 import React from "react"
 
-function Links(props) {
+const Links = (props) => {
   return (
     <div id="links">
       <h3>Links</h3>
